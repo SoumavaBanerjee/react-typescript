@@ -1,8 +1,10 @@
+import Parent from "./Props/parent";
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello Nigga</h1>
+     <Parent/>
     </div>
   );
 }
