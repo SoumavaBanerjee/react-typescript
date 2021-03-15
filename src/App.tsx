@@ -1,10 +1,9 @@
-import Parent from "./Props/parent";
-
+import GuestList from "./state/GuestList";
 
 function App() {
   return (
     <div className="App">
-     <Parent/>
+      <GuestList />
     </div>
   );
 }
