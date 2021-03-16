@@ -1,9 +1,9 @@
-import EventComponent from "./events/EventComponent";
+import UserSearch from "./ref/UserSearch";
 
 function App() {
   return (
     <div className="App">
-      <EventComponent />
+      <UserSearch />
     </div>
   );
 }
